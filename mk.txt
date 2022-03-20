@@ -1,3 +1,5 @@
 create  a mengke
 
-mengke 1:aixinmengke
+mengke1:aixinmengke
+
+mengke2:keaimengke
