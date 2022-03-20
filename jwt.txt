@@ -1,2 +1,4 @@
 this is jwt branch
 flight for more money.
+
+Creating a new branch is quick & simple.
